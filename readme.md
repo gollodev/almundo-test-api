@@ -3,7 +3,7 @@ You need internet run this project, becouse the database is in the cloud.
 
 # Clone
 
-Use `git clone https://github.com/oscarpr/almundo-back.git` to clone this project.
+Use `git clone https://github.com/gollodev/almundo-test-api` to clone this project.
 
 ## Install depencies
 
